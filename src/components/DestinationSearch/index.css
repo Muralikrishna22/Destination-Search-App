@@ -1,0 +1,49 @@
+.app-container {
+  background-color: #252627;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.destination-search-container {
+  background-color: #ffffff;
+  height: 300vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.destination-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.destination-heading {
+  font-family: Roboto;
+  font-weight: 700px;
+  color: #0f172a;
+  font-size: 45px;
+  margin: 30px;
+}
+
+.search-input {
+  background-color: #f1f5f9;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  color: #252627;
+}
+.input-img {
+  margin: 2px;
+  height: 20px;
+  width: 20px;
+}
+.search-input-container {
+  display: flex;
+  background-color: #f1f5f9;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  padding: 7px;
+  border-radius: 7px;
+  color: black;
+}

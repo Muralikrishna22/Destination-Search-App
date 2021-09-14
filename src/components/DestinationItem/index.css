@@ -1,0 +1,15 @@
+.destination-image {
+  max-height: 250px;
+  max-width: 350px;
+}
+.destination-item {
+  padding: 30px;
+  list-style-type: none;
+  margin: 10px;
+}
+.destination-name {
+  font-family: open sans;
+  font-weight: 700px;
+  color: #000000;
+  font-size: 20px;
+}
